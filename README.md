@@ -12,7 +12,7 @@ Android is built on python flask on backend and java on the frontend.
 ______How to run________
 
 backend code for both web and android is on the 'python and web' folder namely webcode and webservice respectively
-
+Database db.sql file is on 'python and web' folder
 To run the website run wampserver and run the webcode
 To run on android, install app on android and run the webservice. Enter the ip from the webservice in the android.
 That's it!
